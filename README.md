@@ -1,12 +1,13 @@
-- [Source from JetBrains Mono v2.251](https://github.com/JetBrains/JetBrainsMono/commit/9a01623903be1c12fc1a14ea3801e42e004f4223)
+Based on [JetBrains Mono v2.251](https://github.com/JetBrains/JetBrainsMono) modify char `g`
 
-
-
-Modify char
-
-- `g`
+- version: [v2.251-patch1](https://github.com/liangjingkanji/JetBrainsMono-patch/releases/tag/v2.251-patch1)
 
 <img src="https://user-images.githubusercontent.com/21078112/177470573-eb9a6f81-5c21-47c8-9dec-e8e89fbba3f4.png" width="60%"/>
+
+
+- version: [v2.251-patch2](https://github.com/liangjingkanji/JetBrainsMono-patch/releases/tag/v2.251-patch2) 
+
+<img src="https://user-images.githubusercontent.com/21078112/178150658-98e403a9-55a5-4f89-93ad-c60c03855dcd.png" width="60%"/>
 
 ## License
 
