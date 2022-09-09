@@ -1,4 +1,4 @@
-Based on [JetBrains Mono v2.251](https://github.com/JetBrains/JetBrainsMono) modify char `g`
+Based on [JetBrains Mono v2.251](https://github.com/JetBrains/JetBrainsMono/commit/9a01623903be1c12fc1a14ea3801e42e004f4223) modify char `g`
 
 - version: [v2.251-patch1](https://github.com/liangjingkanji/JetBrainsMono-patch/releases/tag/v2.251-patch1)
 
