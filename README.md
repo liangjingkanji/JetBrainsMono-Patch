@@ -16,11 +16,17 @@
 
     
 
--   [x] [v2.251-patch23](https://github.com/liangjingkanji/JetBrainsMono-patch/releases/tag/v2.251-patch3)
+-   [x] [v2.251-patch3](https://github.com/liangjingkanji/JetBrainsMono-patch/releases/tag/v2.251-patch3)
 
     on by default features: 'zero', 'cv02', 'cv03', 'cv04', 'cv05', 'cv17'
 
     <img src="https://user-images.githubusercontent.com/21078112/198195798-19724bc2-076f-4ae6-9a90-8bb069b87db0.png" width="500"/> 
+    
+-   [x] [v2.251-patch4](https://github.com/liangjingkanji/JetBrainsMono-patch/releases/tag/v2.251-patch4)
+
+    on by default features: 'zero', 'cv03'
+
+    <img src="https://github.com/liangjingkanji/JetBrainsMono-patch/assets/21078112/5f6a722f-0761-4ed4-b576-cd203f545022" width="500"/> 
 
     
 
